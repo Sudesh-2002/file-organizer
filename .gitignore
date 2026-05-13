@@ -39,3 +39,8 @@ Thumbs.db
 # Tkinter / app assets (optional ignore if you don't want tracking builds)
 # ===============================
 *.tmp
+
+# ===============================
+# Build / Distribution (PyInstaller)
+# ===============================
+*.spec
