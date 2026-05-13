@@ -43,4 +43,5 @@ Thumbs.db
 # ===============================
 # Build / Distribution (PyInstaller)
 # ===============================
+build/
 *.spec
